@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/careertopologies/careertopologies/main/assets/career-logo.png" width="150">
+<img src="https://raw.githubusercontent.com/careertopologies/careertopologies/main/assets/careertopologies-bg.png" width="150">
 
 # Career Topologies
 
